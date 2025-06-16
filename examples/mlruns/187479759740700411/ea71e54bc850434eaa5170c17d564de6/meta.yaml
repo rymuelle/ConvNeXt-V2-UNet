@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/joe/Development/ryan/ConvNeXt-V2-UNet/examples/mlruns/187479759740700411/ea71e54bc850434eaa5170c17d564de6/artifacts
+end_time: 1750103428344
+entry_point_name: ''
+experiment_id: '187479759740700411'
+lifecycle_stage: active
+run_id: ea71e54bc850434eaa5170c17d564de6
+run_name: nimble-roo-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750103415617
+status: 3
+tags: []
+user_id: joe
